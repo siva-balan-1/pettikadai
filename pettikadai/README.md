@@ -1,2 +1,0 @@
-# pettikadai
-e commerce application
